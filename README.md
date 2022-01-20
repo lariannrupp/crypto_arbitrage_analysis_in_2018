@@ -8,7 +8,7 @@ The purpose of this program is to perform a quantitative analysis of arbitrage p
 **A Python 3 (ipykernal) in JupyterLab** was used to write this application. 
 Additional Python libraries are imported into the start of the app: ***pandas, Path from pathlib, matplotlib inline, and warnings*
 
-![Technologies](https://photos.google.com/search/_tra_/photo/AF1QipO0XFvqriMJM2kCnWPd8-_Q3G8JiwHheyQLulzc)
+![Technologies](https://lh3.googleusercontent.com/v7__TVQl5vPcSyoSMKpwH_OxYqm2xYWRi3jtX-zT_IZVz9hWce5OweBJ5yMhU37SthxQIjkw5uzFc7RiBbtnzuYoc5ZlZRzzVP5tFuAWZtJVu6q1yo6nSH4T7HNWLE4zn0Fy_jWWxA9_uCwNqJFEz1DAP5r9o7dGSHk0T_1DJJpnIjDBMEYTFyF56-Ts3FL_yoCwFg-JDlbxJA9RWGJuvFkCyRBxQ9G1CDSSqmC9ObeOkeZavtQSKf7a74hHvWyJyxalufi8GsTOc22LaUd0tfTJd31YknmZzYasbTnasRDxydgE8Ccj3YFJV_rpXTczwHacDekD_MOr3vTCiyeNzRHcKcigxySiNKsV12DJL4PEYr8tG5mYOKBu8RMOZoW6VAF6F79s_ORXKdLsekSqAsr3RgecErJH8ELXakuFTa1ttZOU8lsyL4fOd23A_bL5a-t_3LgdvxPQJzKaMeuu8OyclnwcSzqTARIGaq3Q6WM0C3XC_1DAbENB9uFYcXS3bhf7WRyMBlQiJ-MLcHT2a0m9dsJmD7BcyPensR_KLl2GOOXsDZGJ8kzQc_yRP5vQvAUzTYF9Z9jmOE23H0njAHb5QErtmCae4r70hP3ClLodYQgZEqZqOXWgGhvudJrWgTgyNPdy4F_7mBPfzvcJBR0RYUSyCFbjPs-dBkRKRXVH0v5ywgd6vhbC4RoJgX4CgdanbC8xNPZDI62oc5_tYAP2wQ=w633-h280-no?authuser=0)
 
 ---
 
